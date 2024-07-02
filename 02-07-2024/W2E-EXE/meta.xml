@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<meta>
+<publicationMeta level="product">
+<publisherInfo>
+<publisherName>John Wiley &amp; Sons, Inc.</publisherName>
+<publisherLoc>Hoboken, NJ, USA</publisherLoc>
+</publisherInfo>
+<isbn type="printCloth-13">0000000000000</isbn>
+</publicationMeta>
+<publicationMeta level="unit" type="chapter">
+<countGroup>
+<count type="pageTotal" number="00"/>
+</countGroup>
+<eventGroup>
+<event type="xmlCreated" agent="Lumina Datamatics" date="2024-05-11"/>
+</eventGroup>
+</publicationMeta>
+</meta>
